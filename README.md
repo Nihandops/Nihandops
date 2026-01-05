@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihandops&label=Profile%20views&color=0e75b6&style=flat" alt="nihandops" /> </p>
 
-- 🔭 I’m currently working on **eGeneration Plc**
+- 🔭 I’m currently working on **Synesis IT PLC**
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Gitops, Sonarqube and many more**
 
@@ -11,7 +11,7 @@
 
 - 📝 I try to write articles on [https://www.linkedin.com/in/sr-nihan/](https://www.linkedin.com/in/sr-nihan/)
 
-- 💬 Ask me about **DevOPs if you're starting learning DevOps**
+- 💬 Ask me about **DevOps if you're starting learning DevOps**
 
 - 📫 How to reach me **md.srnihan@gmail.com**
 
